@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 153.515 s <<< FAILURE! - in CucumberTestSuite
+add contact in my jurnal.Success create contact  Time elapsed: 68.625 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'RIKO', ip: '192.168.1.30', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_333'
+Driver info: driver.version: unknown
+
+add contact in my jurnal.Success fully create contact  Time elapsed: 40.638 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'RIKO', ip: '192.168.1.30', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_333'
+Driver info: driver.version: unknown
+

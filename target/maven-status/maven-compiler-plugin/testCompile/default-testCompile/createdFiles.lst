@@ -1,0 +1,16 @@
+starter\Pages\CreateContactPage.class
+starter\StepDefinition\AddProductStepdefs.class
+starter\Pages\MenuPage.class
+starter\Pages\CreateProductPage.class
+starter\Pages\ContactDetail.class
+starter\Step\LoginSteps.class
+starter\Pages\ContactPage.class
+starter\Pages\LoginPage.class
+starter\Step\AddProductStep.class
+CucumberTestSuite.class
+starter\Pages\ProductPage.class
+starter\StepDefinition\AddContactStepdefs.class
+starter\Pages\DashboardPage.class
+starter\StepDefinition\LoginStepdefs.class
+starter\Step\AddContactStep.class
+starter\Pages\LoginJurnalPage.class
